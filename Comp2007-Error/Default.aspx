@@ -6,6 +6,7 @@
         <div class="jumbotron text-center">
             <h1>Welcome home!</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          
         </div>
     </div>
 </asp:Content>

@@ -2,5 +2,8 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-    <h1>404 - Page Not Found!</h1>
+    <h1 class="text-center">404 - Page Not Found!</h1>
+    <div class="col-lg-offset-5">
+<img src="Contents/fff.jpg" />
+        </div>
 </asp:Content>
