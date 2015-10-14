@@ -13,5 +13,6 @@ namespace Comp2007_Error
 
     public partial class _404
     {
+    	hello;
     }
 }
