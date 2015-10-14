@@ -45,7 +45,7 @@ namespace Comp2007_Error
                 ex = new Exception(unhandledErrorMsg);
             }
 
-            // Show error details to only you (developer). LOCAL ACCESS ONLY.
+            // Show error details to only you (developer). LOCAL ACCESS ONLY Testing 123 ------ ( XD XD --- SSup Chandan!  )
             if (Request.IsLocal)
             {
                 // Detailed Error Message.
